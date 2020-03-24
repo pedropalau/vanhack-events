@@ -8,7 +8,7 @@
     "license": "MIT",
     "private": true,
     "scripts": {
-        "start": "node index.js",
+        "start": "node main.js",
         "start:dev": "json-server --watch data.json",
         "deploy": "now",
         "deploy:public": "now --public"
