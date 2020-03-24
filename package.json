@@ -1,0 +1,16 @@
+{
+    "name": "vanhack-events",
+    "version": "1.0.0",
+    "description": "Dummy JSON data to implement a basic events page based on VanHack.",
+    "main": "index.js",
+    "repository": "git@github.com:peterpalau/vanhack-events.git",
+    "author": "Pedro Palau <pepalauisaac@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "scripts": {
+        "start": "json-server data.json"
+    },
+    "dependencies": {
+        "json-server": "^0.16.1"
+    }
+}
