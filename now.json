@@ -3,12 +3,9 @@
     "name": "vanhack-events",
     "alias": "vanhack-events.now.sh",
     "scope": "vanhack",
-    "regions": [
-        "all"
-    ],
     "builds": [{
-        "src": "*.js",
-        "use": "@now/node"
+      "src": "*.js",
+      "use": "@now/node"
     }],
     "routes": [
       {
