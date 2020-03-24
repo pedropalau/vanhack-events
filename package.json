@@ -8,7 +8,8 @@
     "license": "MIT",
     "private": true,
     "scripts": {
-        "start": "json-server data.json"
+        "start:production": "json-server data.json",
+        "start": "json-server --watch data.json"
     },
     "dependencies": {
         "json-server": "^0.16.1"
