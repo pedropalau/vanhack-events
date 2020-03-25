@@ -2,8 +2,8 @@
     "events": [
         {
             "id": 1,
-            "title": "VanHack Virtual Hiring Fair",
-            "slug": "vanhack-virtual-hiring-fair",
+            "title": "Virtual Hiring Fair",
+            "slug": "virtual-hiring-fair",
             "type": "webinar",
             "start": "2020-04-25T00:00:00",
             "end": "2020-04-26T00:00:00",
@@ -16,6 +16,57 @@
             },
             "online": true,
             "applied": true
+        },
+        {
+            "id": 2,
+            "title": "Colombia Recruiting Mission",
+            "slug": "colombia-recruiting-mission",
+            "type": "recruiting-mission",
+            "start": "2020-05-12T00:00:00",
+            "end": "2020-05-18T00:00:00",
+            "deadline": "2020-05-10T00:00:00",
+            "location": {
+                "city": "Bogota",
+                "state": "Bogota D.C.",
+                "countryCode": "CO",
+                "country": "Colombia"
+            },
+            "online": true,
+            "applied": false
+        },
+        {
+            "id": 3,
+            "title": "Technical Interview Practice",
+            "slug": "webinar-technical-interview-practice",
+            "type": "webinar",
+            "start": "2020-05-15T00:00:00",
+            "end": "2020-05-20T00:00:00",
+            "deadline": "2020-05-14T00:00:00",
+            "location": {
+                "city": "Toronto",
+                "state": "Ontario",
+                "countryCode": "CA",
+                "country": "Canada"
+            },
+            "online": false,
+            "applied": false
+        },
+        {
+            "id": 4,
+            "title": "Leap Toronto",
+            "slug": "leap-toronto",
+            "type": "webinar",
+            "start": "2020-05-15T00:00:00",
+            "end": "2020-05-20T00:00:00",
+            "deadline": "2020-05-14T00:00:00",
+            "location": {
+                "city": "Toronto",
+                "state": "Ontario",
+                "countryCode": "CA",
+                "country": "Canada"
+            },
+            "online": false,
+            "applied": false
         }
     ]
 }
