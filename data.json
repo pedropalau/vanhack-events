@@ -1,4 +1,48 @@
 {
+    "types": {
+        "meetup": {
+            "name": "Meetup",
+            "colors": {
+                "primary": "red-100",
+                "secondary": "red-600"
+            }
+        },
+        "leap": {
+            "name": "Leap",
+            "colors": {
+                "primary": "orange-100",
+                "secondary": "orange-600"
+            }
+        },
+        "recruitingMission": {
+            "name": "Recruiting mission",
+            "colors": {
+                "primary": "green-100",
+                "secondary": "green-600"
+            }
+        },
+        "vanhackaton": {
+            "name": "VanHackaton",
+            "colors": {
+                "primary": "yellow-100",
+                "secondary": "yellow-600"
+            }
+        },
+        "premiunOnlyWebinar": {
+            "name": "Premium-only webinar",
+            "colors": {
+                "primary": "teal-100",
+                "secondary": "teal-600"
+            }
+        },
+        "webinar": {
+            "name": "Webinar",
+            "colors": {
+                "primary": "indigo-100",
+                "secondary": "indigo-600"
+            }
+        }
+    },
     "events": [
         {
             "id": 1,
@@ -24,7 +68,7 @@
             "title": "Colombia Recruiting Mission",
             "slug": "colombia-recruiting-mission",
             "thumbnail": "https://images.unsplash.com/photo-1507992781348-310259076fe0?ixlib=rb-1.2.1&auto=format&fit=crop&w=1992&q=100&w=400&h=300",
-            "type": "recruiting-mission",
+            "type": "recruitingMission",
             "start": "2020-05-12T00:00:00",
             "end": "2020-05-18T00:00:00",
             "deadline": "2020-05-10T00:00:00",
@@ -62,7 +106,7 @@
             "title": "Leap Toronto",
             "slug": "leap-toronto",
             "thumbnail": "https://images.unsplash.com/photo-1566823445127-e48e6a5e7af2?ixlib=rb-1.2.1&auto=format&fit=crop&w=1992&q=100&w=400&h=300",
-            "type": "webinar",
+            "type": "leap",
             "start": "2020-05-15T00:00:00",
             "end": "2020-05-20T00:00:00",
             "deadline": "2020-05-14T00:00:00",
@@ -74,6 +118,44 @@
             },
             "online": false,
             "applied": false,
+            "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
+        },
+        {
+            "id": 5,
+            "title": "Santiago VanHackaton",
+            "slug": "santiago-vanhackaton",
+            "thumbnail": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1992&q=100&w=400&h=300",
+            "type": "vanhackaton",
+            "start": "2020-04-25T00:00:00",
+            "end": "2020-04-26T00:00:00",
+            "deadline": "2020-04-24T00:00:00",
+            "location": {
+                "city": "Vancouver",
+                "state": "British Columbia",
+                "countryCode": "CA",
+                "country": "Canada"
+            },
+            "online": true,
+            "applied": true,
+            "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
+        },
+        {
+            "id": 6,
+            "title": "How to Rock your Job Interview",
+            "slug": "how to Rock your Job Interview",
+            "thumbnail": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1992&q=100&w=400&h=300",
+            "type": "premiunOnlyWebinar",
+            "start": "2020-04-25T00:00:00",
+            "end": "2020-04-26T00:00:00",
+            "deadline": "2020-04-24T00:00:00",
+            "location": {
+                "city": "Vancouver",
+                "state": "British Columbia",
+                "countryCode": "CA",
+                "country": "Canada"
+            },
+            "online": true,
+            "applied": true,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         }
     ]
