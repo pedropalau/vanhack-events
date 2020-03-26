@@ -46,7 +46,7 @@
     "events": [
         {
             "id": 1,
-            "title": "😀 Making the most of Vanhack",
+            "title": "Making the most of VanHack",
             "slug": "making-the-most-vanhack",
             "thumbnail": "https://images.unsplash.com/photo-1559511260-66a654ae982a?ixlib=rb-1.2.1&auto=format&fit=crop&w=1992&q=100&w=400&h=300",
             "type": "premiunOnlyWebinar",
