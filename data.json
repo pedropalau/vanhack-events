@@ -9,6 +9,7 @@
         },
         "leap": {
             "name": "Leap",
+            "highlight": true,
             "colors": {
                 "primary": "orange-100",
                 "secondary": "orange-600"
@@ -16,6 +17,7 @@
         },
         "recruitingMission": {
             "name": "Recruiting mission",
+            "highlight": true,
             "colors": {
                 "primary": "green-100",
                 "secondary": "green-600"
@@ -23,6 +25,7 @@
         },
         "vanhackaton": {
             "name": "VanHackaton",
+            "highlight": true,
             "colors": {
                 "primary": "yellow-100",
                 "secondary": "yellow-600"
@@ -61,6 +64,7 @@
             },
             "online": true,
             "applied": true,
+            "premium": true,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         },
         {
@@ -80,6 +84,7 @@
             },
             "online": true,
             "applied": true,
+            "premium": false,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         },
         {
@@ -99,6 +104,7 @@
             },
             "online": true,
             "applied": false,
+            "premium": false,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         },
         {
@@ -118,6 +124,7 @@
             },
             "online": false,
             "applied": false,
+            "premium": false,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         },
         {
@@ -137,6 +144,7 @@
             },
             "online": false,
             "applied": false,
+            "premium": false,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         },
         {
@@ -156,6 +164,7 @@
             },
             "online": true,
             "applied": true,
+            "premium": false,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         },
         {
@@ -175,6 +184,7 @@
             },
             "online": true,
             "applied": true,
+            "premium": true,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         },
         {
@@ -194,6 +204,7 @@
             },
             "online": true,
             "applied": false,
+            "premium": false,
             "description": "<p>VanHack is hosting a Virtual Hiring Fair, April 25th and 26th.</p><p>If you are looking for a job in Canada or Europe you should apply! Some of the best companies in North America and Europe will be attending the virtual fair.</p><p>We are looking for candidates with more than 5 years of professional experience, good English and ready for a change.</p><p><strong>What to expect:</strong></p><ul><li>Connect virtually with Companies in Canada and Europe</li><li>Get a great preparation through VanHack</li><li>Learn about the participating companies</li><li>Get your profile forwarded to the companies</li><li>Be ready to start remotely before relocating to Canada or Europe</li><li>Be open to different cities in Canada and Europe (let us know if you have questions)</li></ul><p>This is an amazing chance to do interviews with international companies and land a job abroad.</p><p>Don't miss it!</p>"
         }
     ]
